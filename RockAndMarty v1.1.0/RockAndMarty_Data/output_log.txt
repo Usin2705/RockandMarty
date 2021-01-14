@@ -1,0 +1,250 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Collection\Metro\Game project - Rock & Marty\RockAndMarty v1.1.0\RockAndMarty_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Collection\Metro\Game project - Rock & Marty\RockAndMarty v1.1.0\RockAndMarty_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Collection\Metro\Game project - Rock & Marty\RockAndMarty v1.1.0\RockAndMarty_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Collection\Metro\Game project - Rock & Marty\RockAndMarty v1.1.0\RockAndMarty_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Collection\Metro\Game project - Rock & Marty\RockAndMarty v1.1.0\RockAndMarty_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Collection\Metro\Game project - Rock & Marty\RockAndMarty v1.1.0\RockAndMarty_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Collection\Metro\Game project - Rock & Marty\RockAndMarty v1.1.0\RockAndMarty_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Collection\Metro\Game project - Rock & Marty\RockAndMarty v1.1.0\RockAndMarty_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.683 seconds
+Platform assembly: D:\Collection\Metro\Game project - Rock & Marty\RockAndMarty v1.1.0\RockAndMarty_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Collection\Metro\Game project - Rock & Marty\RockAndMarty v1.1.0\RockAndMarty_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 5520x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.665900 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.294700 ms
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 387.
+Total: 0.361700 ms (FindLiveObjects: 0.023600 ms CreateObjectMapping: 0.020600 ms MarkObjects: 0.207500 ms  DeleteObjects: 0.094500 ms)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.718200 ms
+The AnimationClip 'PlayerAnimation' used by the Animation component 'RawImage (22)' must be marked as Legacy.
+ 
+(Filename:  Line: 1983)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+The AnimationClip 'PlayerAnimation' used by the Animation component 'RawImage (23)' must be marked as Legacy.
+ 
+(Filename:  Line: 1983)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+The AnimationClip 'PlayerAnimation' used by the Animation component 'RawImage (4)' must be marked as Legacy.
+ 
+(Filename:  Line: 1983)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+
+Unloading 171 unused Assets to reduce memory usage. Loaded Objects now: 473.
+Total: 1.263100 ms (FindLiveObjects: 0.790300 ms CreateObjectMapping: 0.026200 ms MarkObjects: 0.288100 ms  DeleteObjects: 0.157400 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.944200 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 669.
+Total: 0.499400 ms (FindLiveObjects: 0.098700 ms CreateObjectMapping: 0.017700 ms MarkObjects: 0.377700 ms  DeleteObjects: 0.004100 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.764400 ms
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 387.
+Total: 0.337100 ms (FindLiveObjects: 0.035300 ms CreateObjectMapping: 0.011600 ms MarkObjects: 0.235600 ms  DeleteObjects: 0.054000 ms)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.549600 ms
+
+Unloading 161 unused Assets to reduce memory usage. Loaded Objects now: 384.
+Total: 0.775700 ms (FindLiveObjects: 0.436000 ms CreateObjectMapping: 0.020500 ms MarkObjects: 0.233800 ms  DeleteObjects: 0.084700 ms)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.603200 ms
+
+Unloading 177 unused Assets to reduce memory usage. Loaded Objects now: 384.
+Total: 0.864900 ms (FindLiveObjects: 0.490700 ms CreateObjectMapping: 0.021900 ms MarkObjects: 0.252700 ms  DeleteObjects: 0.098700 ms)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.045100 ms
+
+Unloading 180 unused Assets to reduce memory usage. Loaded Objects now: 384.
+Total: 1.727600 ms (FindLiveObjects: 1.110300 ms CreateObjectMapping: 0.035000 ms MarkObjects: 0.257700 ms  DeleteObjects: 0.323500 ms)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 402)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 13.611400 ms
+
+Unloading 193 unused Assets to reduce memory usage. Loaded Objects now: 666.
+Total: 2.447600 ms (FindLiveObjects: 1.577800 ms CreateObjectMapping: 0.043000 ms MarkObjects: 0.411400 ms  DeleteObjects: 0.414600 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.722700 ms
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 387.
+Total: 0.426000 ms (FindLiveObjects: 0.070800 ms CreateObjectMapping: 0.025500 ms MarkObjects: 0.276800 ms  DeleteObjects: 0.051800 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.027200 ms
+
+Unloading 146 unused Assets to reduce memory usage. Loaded Objects now: 666.
+Total: 1.061000 ms (FindLiveObjects: 0.502500 ms CreateObjectMapping: 0.035800 ms MarkObjects: 0.363200 ms  DeleteObjects: 0.158900 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.806600 ms
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 387.
+Total: 0.356500 ms (FindLiveObjects: 0.035700 ms CreateObjectMapping: 0.011700 ms MarkObjects: 0.255000 ms  DeleteObjects: 0.053500 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.688300 ms
+
+Unloading 146 unused Assets to reduce memory usage. Loaded Objects now: 666.
+Total: 0.991600 ms (FindLiveObjects: 0.425700 ms CreateObjectMapping: 0.027500 ms MarkObjects: 0.409500 ms  DeleteObjects: 0.128100 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 4270 -> priority: 1 
